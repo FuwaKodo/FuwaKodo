@@ -26,7 +26,7 @@ const currentMission = {
 class Nikolas:
     def __init__(self):
         self.strong_in = ["Python", "Java"]
-        self.actively_learning = ["C++", "SQL", "Machine Learning libraries"]
+        self.actively_learning = ["C++", "C", "SQL", "Machine Learning libraries"]
         self.tools = ["Git", "IntelliJ IDEA", "VS Code"]
         self.exploring = ["TensorFlow", "System Design concepts"]
         self.building = ["ML algorithms", "Data analysis projects", "OOP applications"]
