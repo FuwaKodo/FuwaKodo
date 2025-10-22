@@ -25,11 +25,11 @@ const currentMission = {
 ```python
 class Nikolas:
     def __init__(self):
-        self.languages = ["Python", "Java", "C++", "SQL"]
-        self.ml_toolkit = ["scikit-learn", "pandas", "numpy", "matplotlib"]
-        self.dev_environment = ["Git", "Linux", "IntelliJ IDEA", "VS Code"]
-        self.currently_learning = ["TensorFlow", "React", "System Design"]
-        self.passion_projects = ["ML algorithms", "Data visualization", "Web apps"]
+        self.strong_in = ["Python", "Java"]
+        self.actively_learning = ["C++", "SQL", "Machine Learning libraries"]
+        self.tools = ["Git", "IntelliJ IDEA", "VS Code"]
+        self.exploring = ["TensorFlow", "System Design concepts"]
+        self.building = ["ML algorithms", "Data analysis projects", "OOP applications"]
    
     def philosophy(self):
         return "Write code that your future self will thank you for"
