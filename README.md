@@ -8,7 +8,7 @@
 
 ## About Me
 - **3rd-year Computer Science student** at University of Toronto  
-- **Dean's List Scholar** (3.80 GPA) who believes great code tells a story  
+- **Dean's List Scholar** who believes great code tells a story  
 - Currently mastering the art of **Machine Learning** and **Operating Systems**  
 
 ## What Drives Me
@@ -40,7 +40,7 @@ class Nikolas:
 
 ## Achievements Unlocked
 - **Dean's List Scholar** (Summer 2024) - Top academic performance
-- **3.80 Cumulative GPA** - Consistency in excellence
+- **3.78 Cumulative GPA** - Consistency in excellence
 - **IB Diploma Programme Graduate** - Global perspective
 - **Key Coursework**: ML, Operating Systems, Data Structures, Software Design
 
